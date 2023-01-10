@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J0w33l
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Python for Pentesters, C3# and Ocsp certs
-- 💞️ I’m looking to collaborate on Hacking tools
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Python for Pentesters, bash, CEH and Ocsp certs
+- 💞️ I’m looking to collaborate on basic tools 
 - 📫 How to reach me J0w3311
 
 <!---
