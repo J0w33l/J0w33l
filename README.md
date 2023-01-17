@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J0w33l
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Python for Pentesters, bash, CEH and Ocsp certs
+- 🌱 I’m currently learning Python for Pentesters, bash, CEH and Oscp certs
 - 💞️ I’m looking to collaborate on basic tools 
 - 📫 How to reach me J0w3311
 
